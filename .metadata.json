@@ -2,9 +2,5 @@
   {
     "package": "addreg",
     "oncran": true
-  },
-  {
-    "package": "logbin",
-    "oncran": true
   }
 ]
