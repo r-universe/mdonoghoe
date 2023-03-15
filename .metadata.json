@@ -1,10 +1,10 @@
 [
   {
-    "package": "logbin",
+    "package": "addreg",
     "oncran": true
   },
   {
-    "package": "addreg",
+    "package": "logbin",
     "oncran": true
   }
 ]
