@@ -8,6 +8,11 @@
 	url = https://github.com/mdonoghoe/addreg
 	shallow = true
 	registered = true
+[submodule "glm2"]
+	path = glm2
+	url = https://github.com/cran/glm2
+	shallow = true
+	registered = true
 [submodule "logbin"]
 	path = logbin
 	url = https://github.com/mdonoghoe/logbin
