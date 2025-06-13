@@ -7,7 +7,7 @@
 	url = https://github.com/mdonoghoe/addreg
 [submodule "glm2"]
 	path = glm2
-	url = https://github.com/cran/glm2
+	url = https://github.com/mdonoghoe/glm2
 [submodule "logbin"]
 	path = logbin
 	url = https://github.com/mdonoghoe/logbin
